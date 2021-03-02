@@ -1,0 +1,23 @@
+{
+  "name": "gitignore",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanesa19805/gitignore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanesa19805/gitignore/issues"
+  },
+  "homepage": "https://github.com/vanesa19805/gitignore#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
